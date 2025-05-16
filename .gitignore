@@ -1,0 +1,48 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider-specific
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+# Logs
+*.log
+logs/
+
+# Entity Framework
+Migrations/
+
+# Node (if using Angular/React)
+node_modules/
+dist/
+npm-debug.log
+
+# VS Code
+.vscode/
+.vs/
+
+# Dotnet tools
+.vscode/
+*.db
+*.pdb
+
+# Others
+.env
