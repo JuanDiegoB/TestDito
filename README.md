@@ -27,7 +27,7 @@ Este proyecto es una aplicación web construida con **ASP.NET Core**, siguiendo 
 
 ```bash
 git clone https://github.com/JuanDiegoB/TestDito.git
-cd tu-repo
+cd TestDito
 ```
 
 2. Restaura paquetes NuGet:
