@@ -6,7 +6,7 @@ Este proyecto es una aplicación web construida con **ASP.NET Core**, siguiendo 
 
 ## 🧱 Estructura del Proyecto
 
-- **TestDito.WebApi**: Proyecto principal (punto de entrada).
+- **TestDito.API**: Proyecto principal (punto de entrada).
 - **TestDito.Application**: Lógica de negocio y casos de uso.
 - **TestDito.Domain**: Entidades del dominio.
 - **TestDito.Infrastructure**: Acceso a datos y servicios externos.
@@ -43,5 +43,5 @@ dotnet restore
 5. Ejecuta la aplicación:
 
 ```bash
-dotnet run --project WebApi
+dotnet run --project TestDito.API
 ```
