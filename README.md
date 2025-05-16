@@ -26,7 +26,7 @@ Este proyecto es una aplicación web construida con **ASP.NET Core**, siguiendo 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/JuanDiegoB/TestDito.git
 cd tu-repo
 ```
 
